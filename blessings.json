@@ -1,0 +1,275 @@
+{
+  "blessings": [
+    {
+      "id": "blessing-self-1",
+      "title": "Blessing Over Myself",
+      "category": "self",
+      "text": "I bless myself in the name of the Lord. I speak the purposes of the Kingdom of God into my life and family. I bless my home with the peace of God and release myself into His favor and His best. Whatever the enemy stole, let it be returned in greater measure. I bless the work of my hands to bring life and goodness to others."
+    },
+    {
+      "id": "blessing-added-individual-1",
+      "title": "Blessing of Strength and Courage",
+      "category": "self",
+      "text": "I bless myself with the strength of the Lord, for the joy of the Lord is my strength (Nehemiah 8:10). I will be strong and courageous; I will not fear or be discouraged, for the Lord my God is with me wherever I go (Joshua 1:9). I bless my mind with peace and my heart with confidence in Christ. May every step I take be ordered by the Lord."
+    },
+    {
+      "id": "blessing-added-individual-2",
+      "title": "Blessing of Wisdom and Guidance",
+      "category": "self",
+      "text": "I bless myself with the wisdom that comes from above—pure, peaceable, gentle, and full of mercy (James 3:17). I bless my decisions to be led by the Spirit and not by fear. May the Lord make straight my paths as I trust in Him with all my heart (Proverbs 3:5–6)."
+    },
+    {
+      "id": "blessing-added-individual-3",
+      "title": "Blessing of Identity in Christ",
+      "category": "self",
+      "text": "I bless my identity in Christ. I am chosen, redeemed, and dearly loved (Colossians 3:12). I bless myself to walk in the newness of life that Jesus purchased for me. May every lie about who I am fall away, and may I stand firm in the truth of God's Word spoken over me."
+    },
+    {
+      "id": "blessing-marriage-self-1",
+      "title": "Blessing for My Marriage",
+      "category": "marriage_self",
+      "text": "I bless my marriage with the joy of the Lord. I bless our covenant with the peace of God to rule in our hearts. May we fulfill all God has in store for us. I honor my spouse as a gift from God, and I bless our union to be strong, tender, and guarded by His love."
+    },
+    {
+      "id": "blessing-original-marriage-1",
+      "title": "Blessing for Marriages (Others)",
+      "category": "marriage_other",
+      "text": "I bless your marriage with the joy of the Lord. May the peace of God rule in both your hearts. May you fulfill all God has in store for you together. I bless your covenant to be strong, tender, and guarded by His love."
+    },
+    {
+      "id": "blessing-added-marriage-1",
+      "title": "Blessing of Unity",
+      "category": "marriage_other",
+      "text": "I bless your marriage with unity and peace, for a cord of three strands is not easily broken (Ecclesiastes 4:12). I bless you both to walk in love, patience, and humility, bearing with one another in grace. May the peace of Christ rule in your hearts and home."
+    },
+    {
+      "id": "blessing-added-marriage-2",
+      "title": "Blessing of Love and Service",
+      "category": "marriage_other",
+      "text": "I bless your marriage with the love described in 1 Corinthians 13—patient, kind, not self-seeking. May you serve one another as Christ served us. I bless you with joy in your covenant and strength to walk in forgiveness and honor."
+    },
+    {
+      "id": "blessing-added-marriage-3",
+      "title": "Blessing of Fruitfulness",
+      "category": "marriage_other",
+      "text": "I bless your marriage to bear fruit for the Kingdom of God. May your home reflect the goodness of the Lord. I bless you with the comfort of the Holy Spirit, and may the Lord establish the work of your hands (Psalm 90:17)."
+    },
+    {
+      "id": "blessing-original-anyone-1",
+      "title": "Blessing to Speak Over Anyone",
+      "category": "anyone",
+      "text": "May the eyes of your understanding be opened, and may you come into the full hope of the calling of the Lord (see Eph. 1:17). I bless you with good days and long life. May the favor of the Lord be upon you to live in the fullness of His grace! May I be a blessing to you and may I be able to receive blessing from you."
+    },
+    {
+      "id": "blessing-added-anyone-1",
+      "title": "Blessing of Peace",
+      "category": "anyone",
+      "text": "I bless you with the peace of Christ ruling in your heart (Colossians 3:15). May the Lord quiet every storm in your mind and fill you with His rest. I bless you with calmness, clarity, and the comfort of the Holy Spirit."
+    },
+    {
+      "id": "blessing-added-anyone-2",
+      "title": "Blessing of God's Presence",
+      "category": "anyone",
+      "text": "I bless you with the presence of the Lord going before you and behind you. May the Lord lift His countenance upon you and give you peace (Numbers 6:24–26). I bless you to sense His nearness in every season."
+    },
+    {
+      "id": "blessing-added-anyone-3",
+      "title": "Blessing of Protection",
+      "category": "anyone",
+      "text": "I bless you with the Lord as your refuge and fortress (Psalm 91:2). No weapon formed against you will prosper. I bless your going out and coming in, and may the Lord surround you with His angels."
+    },
+    {
+      "id": "blessing-original-local-church-1",
+      "title": "Blessing for Any Church",
+      "category": "church",
+      "text": "Lord, we bless this church family. We thank You for Your power to bless. We declare the blessing of the Lord over this church and its place in the community. May it shine Your light, express Your love, and carry Your presence. Let blessing flow through our mouths all week—in our work, families, and friendships. Let our hands be instruments of blessing and our words bring life."
+    },
+    {
+      "id": "blessing-added-local-church-1",
+      "title": "Blessing of Unity for the Church",
+      "category": "church",
+      "text": "We bless this church with unity in the Spirit and the bond of peace (Ephesians 4:3). May every member walk in love and humility. We bless its leaders with wisdom, strength, and pure hearts. May this house shine as a light in its city."
+    },
+    {
+      "id": "blessing-added-local-church-2",
+      "title": "Blessing of Growth",
+      "category": "church",
+      "text": "We bless this church to grow in grace and knowledge of the Lord Jesus Christ (2 Peter 3:18). May disciples be formed, families strengthened, and the lost drawn to salvation. Let this be a house of prayer and revival."
+    },
+    {
+      "id": "blessing-added-local-church-3",
+      "title": "Blessing for Pastors and Leaders",
+      "category": "church",
+      "text": "We bless the pastors and leaders with boldness, purity, and protection. May they shepherd the flock with love and wisdom. Let the Word of God flow through them with power and truth (2 Timothy 4:2)."
+    },
+    {
+      "id": "blessing-original-local-church-or-family-1",
+      "title": "Blessing for the Local Church or Family",
+      "category": "household",
+      "text": "I bless this house today. I call you fellows and joint heirs of the Kingdom of God. I call you into living the fullness of the Lord. I call you to walk in the freedom of the Spirit wherever the Holy Spirit takes you. You are redeemed from the curse of the law but also redeemed for great purposes in God."
+    },
+    {
+      "id": "blessing-added-household-1",
+      "title": "Blessing for Homes",
+      "category": "household",
+      "text": "I bless this home with peace and righteousness. May it be filled with the presence of the Lord (Psalm 127:1). Let every room be a place of rest, prayer, and joy. May every heart here walk in the fear of the Lord."
+    },
+    {
+      "id": "blessing-added-household-2",
+      "title": "Blessing for Family Unity",
+      "category": "household",
+      "text": "I bless this household with unity, forgiveness, and love. May the Spirit of God bind this family together in peace. May this home be known for encouragement, truth, and grace."
+    },
+    {
+      "id": "blessing-added-household-3",
+      "title": "Blessing of God's Presence in the Home",
+      "category": "household",
+      "text": "I bless this house to be a sanctuary of God's presence. May His Word be honored here, and His peace dwell richly. Let His blessing rest on each person who enters."
+    },
+    {
+      "id": "blessing-original-families-1",
+      "title": "Blessing for Families",
+      "category": "family",
+      "text": "I bless you with the revelation of Christ and break off any generational repetitive cycles of sabotage. May you come to recognizing the potential of creativity God has placed in you. You have been translated out of the kingdom of darkness into the family of God. Let the power through the blood of Christ free you from every family curse and root that was not planted in you by your heavenly Father. I declare the name of the Son of God over your life. May you fulfill the destiny and purpose of God! May you honor your father and mother and glorify God here on earth. Your Father in Heaven speaks blessings over you. You are His sons and daughters and you have a hope and a future. Your destiny is sealed through the blood of Jesus and your redemption is paid in full. Your inheritance is in store for you, and none will take you from His hand. Live as one blessing what God has blessed, and you will come into the inheritance of your Father in Heaven."
+    },
+    {
+      "id": "blessing-added-family-1",
+      "title": "Blessing of Generational Restoration",
+      "category": "family",
+      "text": "I bless your family with restoration and healing. May the Lord turn the hearts of the fathers to the children and the hearts of the children to the fathers (Malachi 4:6). I bless every generation to walk in freedom and truth."
+    },
+    {
+      "id": "blessing-added-family-2",
+      "title": "Blessing of Fruitfulness",
+      "category": "family",
+      "text": "I bless your family to be fruitful in every good work. May your home flourish in love, joy, and peace (Galatians 5:22–23). I bless your children to walk in the fear of the Lord and grow strong in spirit."
+    },
+    {
+      "id": "blessing-added-family-3",
+      "title": "Blessing of Household Salvation",
+      "category": "family",
+      "text": "I bless your family with the promise of Acts 16:31—that you and your household shall be saved. May the Lord bring salvation, healing, and faith to every member of your family."
+    },
+    {
+      "id": "blessing-original-favor-1",
+      "title": "Blessing for Favor",
+      "category": "favor",
+      "text": "I bless you with the influence of the Spirit of Christ. I declare over you that your ceiling will soon be your floor. Those who see you will know the Lord inhabits you with favor. I bless you with relationships that build you up and do not tear you down. May you be able to see farther into your destiny than ever before! I bless you with the peace of God to control every thought and the fear of God to establish your feet."
+    },
+    {
+      "id": "blessing-added-favor-1",
+      "title": "Blessing of Open Doors",
+      "category": "favor",
+      "text": "I bless you with open doors that no one can shut (Revelation 3:8). May the Lord surround you with favor as with a shield (Psalm 5:12). I bless the work of your hands and the opportunities before you."
+    },
+    {
+      "id": "blessing-added-favor-2",
+      "title": "Blessing of Divine Appointment",
+      "category": "favor",
+      "text": "I bless you with divine connections and appointments prepared by the Lord. May you walk in the paths He has set before you (Ephesians 2:10). I bless your relationships to be life-giving and aligned with God's purpose."
+    },
+    {
+      "id": "blessing-added-favor-3",
+      "title": "Blessing of Increase",
+      "category": "favor",
+      "text": "I bless you with increase in wisdom, stature, and favor with God and man (Luke 2:52). May every season of your life be marked by God's goodness and advancement."
+    },
+    {
+      "id": "blessing-original-emotional-healing-1",
+      "title": "Emotional Healing Prayer",
+      "category": "emotional_healing",
+      "description": "This is for those who know what it means to be called everything but a child of God. You have pictures framed in your mind and labels pressed upon you that the Holy Spirit wants to tear off your heart. He wants to pull them off like sticky notes and write His name there. Emotional abuse will cause scars on your heart so you are hesitant to trust and be involved with others. God wants to release you from this hindrance. You might be the one that is the abuser and have used accusations and despairing words to wound. The Lord will heal your memory of what has taken place as you read the prayer.",
+      "text": "Jesus, we appeal to You as the Bridegroom. Come as a loving Husband and show us what it means to bless and not curse. You have proven You love us so much because You laid down Your life. Come and minister healing to every wife, husband, or young person that has been abused by verbal barrage. Heal the hearts where there are gaping wounds of the past. I release the healing virtue of the Lord to enter the place of the wounding. May your sleep be restful without fear of night terror. Amen."
+    },
+    {
+      "id": "blessing-added-emotional-healing-1",
+      "title": "Blessing of Inner Restoration",
+      "category": "emotional_healing",
+      "text": "I bless your heart to be restored by the Lord who heals the brokenhearted and binds up their wounds (Psalm 147:3). I bless you with freedom from every lie spoken over you. May the Lord renew your mind and fill you with His peace."
+    },
+    {
+      "id": "blessing-added-emotional-healing-2",
+      "title": "Blessing of Comfort",
+      "category": "emotional_healing",
+      "text": "I bless you with the comfort of the Holy Spirit. May He wipe your tears and lift your head (Psalm 3:3). I bless your thoughts to be filled with truth and your heart to rest securely in the love of God."
+    },
+    {
+      "id": "blessing-added-emotional-healing-3",
+      "title": "Blessing of Freedom",
+      "category": "emotional_healing",
+      "text": "I bless you to walk in the freedom that Jesus purchased for you. May every chain of shame, fear, and rejection be broken. I bless you to know the truth—and the truth will make you free (John 8:32)."
+    },
+    {
+      "id": "blessing-added-individual-4",
+      "title": "Blessing of Spiritual Growth",
+      "category": "self",
+      "text": "I bless myself to grow in the grace and knowledge of our Lord Jesus Christ (2 Peter 3:18). I bless my hunger for the Word, my sensitivity to the Spirit, and my desire to walk closely with Him. May my roots go deep and my fruit abound."
+    },
+    {
+      "id": "blessing-added-individual-5",
+      "title": "Blessing of Peace Over the Mind",
+      "category": "self",
+      "text": "I bless my mind with the peace that surpasses all understanding (Philippians 4:7). May every anxious thought bow to the authority of Christ. I bless myself with clarity, soundness, and confidence in the Lord's promises."
+    },
+    {
+      "id": "blessing-added-individual-6",
+      "title": "Blessing of Holiness",
+      "category": "self",
+      "text": "I bless myself to walk in holiness, for without holiness no one will see the Lord (Hebrews 12:14). I bless myself with strength to resist temptation and joy in obeying Jesus. May my life shine with purity and love."
+    },
+    {
+      "id": "blessing-added-marriage-4",
+      "title": "Blessing of Faithfulness",
+      "category": "marriage_other",
+      "text": "I bless your marriage with unwavering faithfulness, keeping covenant as God keeps His covenant toward us. May kindness, forgiveness, and steadfast love build the foundation of your union (Ephesians 4:32)."
+    },
+    {
+      "id": "blessing-added-marriage-5",
+      "title": "Blessing of Prayer and Agreement",
+      "category": "marriage_other",
+      "text": "I bless your unity of spirit, that when you pray together the Lord will answer (Matthew 18:19). I bless your home to be a place where prayer is natural, powerful, and full of faith."
+    },
+    {
+      "id": "blessing-added-marriage-6",
+      "title": "Blessing of Protection Over Marriage",
+      "category": "marriage_other",
+      "text": "I bless your marriage with protection from every strategy of the enemy. No weapon formed against your covenant will prosper (Isaiah 54:17). May the love of Christ guard your hearts and bind you together in unity."
+    },
+    {
+      "id": "blessing-added-anyone-4",
+      "title": "Blessing of Strength and Endurance",
+      "category": "anyone",
+      "text": "I bless you with endurance and strength through Christ who strengthens you (Philippians 4:13). May you run and not grow weary, walk and not faint (Isaiah 40:31). I bless your heart to be steadfast and courageous."
+    },
+    {
+      "id": "blessing-added-anyone-5",
+      "title": "Blessing of Joy",
+      "category": "anyone",
+      "text": "I bless you with the joy of the Lord, which is your strength. May joy overflow in your life as rivers of living water (John 7:38). May the Lord fill your mouth with laughter and your heart with singing."
+    },
+    {
+      "id": "blessing-added-anyone-6",
+      "title": "Blessing of Mercy",
+      "category": "anyone",
+      "text": "I bless you to walk in mercy, just as your Father in heaven is merciful (Luke 6:36). May you be quick to forgive, slow to anger, and rich in compassion. May others experience the kindness of God through you."
+    },
+    {
+      "id": "blessing-added-favor-4",
+      "title": "Blessing of Promotion",
+      "category": "favor",
+      "text": "I bless you with promotion that comes from the Lord, for exaltation comes neither from the east nor the west but from God alone (Psalm 75:6–7). May He lift you into the role He prepared for you."
+    },
+    {
+      "id": "blessing-added-favor-5",
+      "title": "Blessing of Divine Wisdom",
+      "category": "favor",
+      "text": "I bless you with the wisdom of Solomon—wisdom that brings understanding, honor, and good success (Proverbs 3:13–17). May the Lord give you insight that sets you apart and opens doors for His glory."
+    },
+    {
+      "id": "blessing-added-favor-6",
+      "title": "Blessing of Visibility",
+      "category": "favor",
+      "text": "I bless you to be seen at the right time by the right people for the right purpose. May the Lord cause His face to shine upon you and give you peace. May His favor surround you as a shield (Psalm 5:12)."
+    }
+  ]
+}
